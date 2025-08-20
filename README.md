@@ -46,3 +46,7 @@ This visualization presents developer demographics, showing a strong male majori
 
 <img width="2547" height="1460" alt="Screenshot 2025-08-19 222658" src="https://github.com/user-attachments/assets/ae341b17-f804-4616-b32e-58d4601b48b4" />
 
+# Acknowledgments
+IBM for providing the framework and resources for this capstone project.
+Stack Overflow for conducting and sharing their annual Developer Survey.
+The open-source community for their invaluable tools and libraries.
