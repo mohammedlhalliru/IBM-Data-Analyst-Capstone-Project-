@@ -51,7 +51,6 @@ IBM for providing the framework and resources for this capstone project.
 Stack Overflow for conducting and sharing their annual Developer Survey.
 The open-source community for their invaluable tools and libraries.
 
-
 python
 pandas
 numpy
