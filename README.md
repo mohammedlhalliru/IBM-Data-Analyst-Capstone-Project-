@@ -50,3 +50,21 @@ This visualization presents developer demographics, showing a strong male majori
 IBM for providing the framework and resources for this capstone project.
 Stack Overflow for conducting and sharing their annual Developer Survey.
 The open-source community for their invaluable tools and libraries.
+
+
+python
+pandas
+numpy
+matplotlib
+seaborn
+requests
+beautifulsoup
+sqlite3
+exploratory-data-analysis
+data-analysis
+data-visualization
+data-wrangling
+web-scraping
+flask-api
+cognos-dashboard
+storytelling
